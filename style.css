@@ -1,0 +1,33 @@
+
+h3 {
+    display: inline-block;
+}
+
+.div2 h3,
+.div2 h5 {
+    display: inline;
+    margin: 0
+}
+
+.divparent {
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    margin-top: 80px;
+
+}
+
+
+.div1{
+    margin: 20px;
+    font-size: 50px;
+}
+.time{
+  padding: 20px;
+}
+
+
+
+
+
+
